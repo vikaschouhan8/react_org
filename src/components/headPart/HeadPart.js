@@ -18,7 +18,7 @@ class HeadPart extends Component {
                             <div className="navbar-header">
                             <a className="navbar-brand" href="#">
                                 <img src='./logo.svg' alt="react.org" className={style.imgClass} />
-                                <span className={style.textColor}>React</span>
+                                <span className={style.textColor}>MicroSoft</span>
                             </a>
                             </div>
                         <ul className="nav navbar-nav" style={divStyle}>
