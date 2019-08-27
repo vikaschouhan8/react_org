@@ -11,9 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 } */
-ul li a {
-  color: rgb(20, 15, 15) !important;
-}
+/* ul li a {
+  color: rgb(228, 222, 222) !important;
+} */
 .bgColor{
   background: #262626
 }
@@ -22,17 +22,27 @@ ul li a {
 }
 
 .textColor{
-  color:rgb(0, 0, 0);
+  
   font-weight: 700;
 }
 
 .navLink{
   margin:0 10px;
-  font-size: small;
+  
 }
 
 .navSearch{
   background: bottom;
   border: none;
-  font-size: small;
+  
+}
+
+/* body {
+  margin: 0;
+  padding: 2rem;
+  font-family: sans-serif;
+} */
+
+.active{
+    color:red;
 }
